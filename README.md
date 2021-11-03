@@ -97,13 +97,13 @@ python3 add_to_team_drive.py -d SharedTeamDriveID.here
 ---
 ## Where to RUN this tool??
 
-### You can run on REPL.IT -- [<img height=30 src="https://repl.it/badge/github/XcodersHub/GdriveTools">](https://repl.it/github/XcodersHub/GdriveTools)
+### You can run on REPL.IT -- [<img height=30 src="https://repl.it/badge/github/KangersHub/GdriveTools">](https://repl.it/github/KangersHub/GdriveTools)
 
 ### Or you can Run it on your Local Pc -- (must have python installed)
 
 ---
 
 
-## thats All For Help.... Join--  https://t.me/XcodersHub for more
+## thats All For Help.... Join--  https://t.me/KangersHub for more
 
 ---
